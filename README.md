@@ -15,7 +15,7 @@ I am a software developer specializing in web development . I am experienced in 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mike-mbugua&theme=radical&show_icons=true" alt="Github Stats"/>
 
-![michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mike-mbugua&theme=gotham&layout=compact)
+![michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mbuguaMike&theme=gotham&layout=compact)
 <br/>
 
 # Tech Stacks
