@@ -9,9 +9,7 @@ I am a software developer specializing in web development . I am experienced in 
 ## Github Stats
 
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mike-mbugua&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=mike-mbugua&theme=gotham">
-</a>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=mike-mbugua&theme=radical&show_icons=true" alt="Github Stats"/>
 
